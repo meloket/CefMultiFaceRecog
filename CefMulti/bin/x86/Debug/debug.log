@@ -1,0 +1,108 @@
+[1128/032715.848:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/032800.874:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/032803.442:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(65,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/032842.762:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/032846.326:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.google.com/search?q=gentleman+images&tbm=isch&source=iu&ictx=1&fir=5L-BCCGJowvmNM%253A%252CH8dEaXlafgFd9M%252C_&usg=AI4_-kRQtPzRORmEwxPxE52E1dgXUR_F3A&sa=X&ved=2ahUKEwiGuOCpp_XeAhUQJnwKHTLJDEUQ9QEwAHoECAYQBA#imgrc=5L-BCCGJowvmNM:' was loaded over HTTPS, but requested an insecure image 'http://static4.uk.businessinsider.com/image/55649913dd08956b398b45a9/18-things-every-modern-gentleman-should-have-in-his-closet.jpg'. This content should also be served over HTTPS.", source: https://www.google.com/search?q=gentleman+images&tbm=isch&source=iu&ictx=1&fir=5L-BCCGJowvmNM%253A%252CH8dEaXlafgFd9M%252C_&usg=AI4_-kRQtPzRORmEwxPxE52E1dgXUR_F3A&sa=X&ved=2ahUKEwiGuOCpp_XeAhUQJnwKHTLJDEUQ9QEwAHoECAYQBA#imgrc=5L-BCCGJowvmNM: (0)
+[1128/032846.577:WARNING:spdy_session.cc(3097)] Received HEADERS for invalid stream 109
+[1128/033212.418:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/033618.065:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/033629.728:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/033631.739:WARNING:spdy_session.cc(3097)] Received HEADERS for invalid stream 5
+[1128/033631.768:WARNING:spdy_session.cc(3097)] Received HEADERS for invalid stream 5
+[1128/033911.156:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/034136.594:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/034212.659:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/034326.198:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/035316.567:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/035329.076:WARNING:spdy_session.cc(3097)] Received HEADERS for invalid stream 17
+[1128/073231.525:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/082641.643:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/082727.454:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/082728.767:WARNING:spdy_session.cc(3097)] Received HEADERS for invalid stream 1
+[1128/082843.507:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/083204.602:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/083312.393:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/083317.898:WARNING:spdy_session.cc(3097)] Received HEADERS for invalid stream 121
+[1128/083804.932:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/084805.752:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/085043.357:ERROR:gles2_cmd_decoder.cc(18047)] [.BrowserCompositor-071D4178]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1128/085043.371:ERROR:gles2_cmd_decoder.cc(10168)] [.BrowserCompositor-071D4178]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1128/085043.371:ERROR:gles2_cmd_decoder.cc(18047)] [.BrowserCompositor-071D4178]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1128/085043.372:ERROR:gles2_cmd_decoder.cc(10168)] [.BrowserCompositor-071D4178]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1128/085043.372:ERROR:gles2_cmd_decoder.cc(18047)] [.BrowserCompositor-071D4178]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1128/085043.372:ERROR:gles2_cmd_decoder.cc(10168)] [.BrowserCompositor-071D4178]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1128/085043.372:ERROR:gles2_cmd_decoder.cc(18047)] [.BrowserCompositor-071D4178]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1128/085043.372:ERROR:gles2_cmd_decoder.cc(10168)] [.BrowserCompositor-071D4178]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1128/085050.631:ERROR:gles2_cmd_decoder.cc(18047)] [.BrowserCompositor-1E8C39A0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1128/085050.653:ERROR:gles2_cmd_decoder.cc(10168)] [.BrowserCompositor-1E8C39A0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1128/085050.655:ERROR:gles2_cmd_decoder.cc(18047)] [.BrowserCompositor-1E8C39A0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1128/085050.655:ERROR:gles2_cmd_decoder.cc(10168)] [.BrowserCompositor-1E8C39A0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1128/085050.655:ERROR:gles2_cmd_decoder.cc(18047)] [.BrowserCompositor-1E8C39A0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1128/085050.655:ERROR:gles2_cmd_decoder.cc(10168)] [.BrowserCompositor-1E8C39A0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1128/085050.655:ERROR:gles2_cmd_decoder.cc(18047)] [.BrowserCompositor-1E8C39A0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1128/085050.655:ERROR:gles2_cmd_decoder.cc(10168)] [.BrowserCompositor-1E8C39A0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1128/085055.161:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1128/085102.737:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
